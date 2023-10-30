@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class BankingApplication {
+public class NotSure {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/banking_db";
     private static final String DB_USER = "your_username";
     private static final String DB_PASS = "your_password";
